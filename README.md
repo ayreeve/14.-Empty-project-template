@@ -3,7 +3,7 @@ Template which you can use as a base of you projects. Contain everything you nee
 - html file (with basic structure and scripts embedded)
 - css and sass files
 - js file
-- gruntfile.js (packages: grunt-sass, grunt-browser-sync, grunt-contrib-jshint and grunt-contrib-watch packages.), package.json
+- gruntfile.js (packages: grunt-sass, grunt-browser-sync, grunt-autoprefixer, grunt-contrib-jshint and grunt-contrib-watch packages), package.json
 - .gitignore and readme.md file
 All you have to do is:
 1. Git clone or simply download ZIP and exctract,
